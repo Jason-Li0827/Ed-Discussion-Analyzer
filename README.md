@@ -28,3 +28,6 @@ Install from the Chrome Web Store:
 
 The extension processes information already visible to the signed-in user on the current Ed page.
 It does not send responder names to an external server.
+
+## Disclaimer
+This software was created with the assistance of an LLM. The code may contain errors, inaccuracies, or unintended behavior.
