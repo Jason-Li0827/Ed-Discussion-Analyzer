@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Ed Reply Time Splitter</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Ed Reply Time Splitter</h1>
+    <label for="cutoff">Cutoff date & time</label>
+    <input id="cutoff" type="datetime-local">
+    <button id="analyze">Analyze Thread</button>
+    <p id="status" class="status">Choose a cutoff time, then analyze.</p>
+    <section>
+      <div class="section-header">
+        <h2 id="beforeTitle">Before (0)</h2>
+        <button id="copyBefore" class="small secondary">Copy</button>
+      </div>
+      <textarea id="beforeNames" readonly placeholder="No names yet."></textarea>
+      <p id="beforeMessage" class="message"></p>
+    </section>
+    <section>
+      <div class="section-header">
+        <h2 id="afterTitle">After only (0)</h2>
+        <button id="copyAfter" class="small secondary">Copy</button>
+      </div>
+      <textarea id="afterNames" readonly placeholder="No names yet."></textarea>
+      <p id="afterMessage" class="message"></p>
+    </section>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

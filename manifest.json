@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Ed Reply Time Splitter",
+  "version": "2.1",
+  "description": "Split Ed thread responders into before/after a chosen cutoff time.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
