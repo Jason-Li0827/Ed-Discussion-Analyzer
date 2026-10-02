@@ -75,7 +75,8 @@ Then reload the extension from `chrome://extensions`.
 2. Click the extension icon.
 3. Enter the cutoff date and time.
 4. Click "Analyze Thread."
-5. Copy either list.
+5. Note that you must manually expand all collapsed responses before clicking "Analyze Thread" when there are more than 99 replies.
+6. Copy either list.
 
 ## Privacy
 
