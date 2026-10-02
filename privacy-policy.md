@@ -52,9 +52,3 @@ The extension's use of user data is limited to providing its stated user-facing 
 ## Changes to This Privacy Policy
 
 This privacy policy may be updated if the functionality or data practices of the extension change. Any updated policy will be posted at this location.
-
-## Contact
-
-For questions about this privacy policy or the extension, contact: 
-
-lijason0827@gmail.com
