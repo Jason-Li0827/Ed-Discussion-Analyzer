@@ -42,12 +42,7 @@ This extension can also be added directly to your Chrome browser through the fol
 
 6. The extension should now appear in your Chrome extensions list.
 
-7. Optional: pin the extension for easier access.
-   - Click the Extensions icon in the Chrome toolbar.
-   - Find **Ed Reply Time Splitter**.
-   - Click the pin icon.
-
-8. Open an Ed discussion thread and click the extension icon to use it.
+7. Open an Ed discussion thread and click the extension icon to use it.
 
 #### Updating the Extension Manually
 
@@ -73,7 +68,6 @@ Then reload the extension from `chrome://extensions`.
 
 - The extension must remain in the same folder after it is loaded into Chrome.
 - If the folder is moved or deleted, Chrome may no longer be able to load the extension correctly.
-- Manual installation is intended primarily for development, testing, or users comfortable with Chrome Developer Mode.
 
 ## Usage
 
