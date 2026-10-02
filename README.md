@@ -12,7 +12,7 @@ A Chrome extension for identifying students who responded to an Ed discussion be
 
 ## Installation
 
-Install from the Chrome Web Store (Currently unavailable)
+Install from the Chrome Web Store (currently unavailable)
 
 ### Manual Installation from GitHub
 
