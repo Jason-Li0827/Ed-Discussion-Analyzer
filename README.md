@@ -16,7 +16,7 @@ Install from the Chrome Web Store (currently unavailable)
 
 ### Manual Installation from GitHub
 
-If you want to install the extension directly from the source code instead of using the Chrome Web Store, follow these steps.
+This extension can also be added directly to your Chrome browser through the following step:
 
 1. Download the repository.
    - Click **Code** on the GitHub repository page.
