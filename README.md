@@ -12,9 +12,68 @@ A Chrome extension for identifying students who responded to an Ed discussion be
 
 ## Installation
 
-Install from the Chrome Web Store:
+Install from the Chrome Web Store (Currently unavailable)
 
-[Install Extension]
+### Manual Installation from GitHub
+
+If you want to install the extension directly from the source code instead of using the Chrome Web Store, follow these steps.
+
+1. Download the repository.
+   - Click **Code** on the GitHub repository page.
+   - Choose **Download ZIP**.
+   - Extract the ZIP file to a permanent folder on your computer.
+
+2. Open Chrome and go to:
+   ```text
+   chrome://extensions
+   ```
+
+3. Turn on **Developer mode** using the toggle in the top-right corner.
+
+4. Click **Load unpacked**.
+
+5. Select the folder that contains the extension files, including:
+   ```text
+   manifest.json
+   popup.html
+   popup.css
+   popup.js
+   ```
+
+6. The extension should now appear in your Chrome extensions list.
+
+7. Optional: pin the extension for easier access.
+   - Click the Extensions icon in the Chrome toolbar.
+   - Find **Ed Reply Time Splitter**.
+   - Click the pin icon.
+
+8. Open an Ed discussion thread and click the extension icon to use it.
+
+#### Updating the Extension Manually
+
+If you download a newer version from GitHub:
+
+1. Replace the old extension files with the updated files.
+2. Go back to:
+   ```text
+   chrome://extensions
+   ```
+3. Find **Ed Reply Time Splitter**.
+4. Click the **Reload** button on the extension card.
+
+If you cloned the repository with Git instead, you can update it with:
+
+```bash
+git pull
+```
+
+Then reload the extension from `chrome://extensions`.
+
+#### Notes
+
+- The extension must remain in the same folder after it is loaded into Chrome.
+- If the folder is moved or deleted, Chrome may no longer be able to load the extension correctly.
+- Manual installation is intended primarily for development, testing, or users comfortable with Chrome Developer Mode.
 
 ## Usage
 
