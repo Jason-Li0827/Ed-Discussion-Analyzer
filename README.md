@@ -7,6 +7,7 @@ A Chrome extension for identifying students who responded to an Ed discussion be
 - Reads responder names from the currently open Ed thread
 - Splits responders based on a chosen date and time
 - Students who responded before the deadline are not counted again afterward
+- No repeating names
 - Copies either list with one click
 - All processing happens locally in the browser
 
