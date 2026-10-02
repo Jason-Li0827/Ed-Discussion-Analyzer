@@ -55,6 +55,6 @@ This privacy policy may be updated if the functionality or data practices of the
 
 ## Contact
 
-For questions about this privacy policy or the extension, contact: lijason0827@gmail.com
+For questions about this privacy policy or the extension, contact: 
 
-[YOUR EMAIL]
+lijason0827@gmail.com
