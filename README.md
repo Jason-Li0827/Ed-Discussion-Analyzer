@@ -10,6 +10,14 @@ A Chrome extension for identifying students who responded to an Ed discussion be
 - Copies either list with one click
 - All processing happens locally in the browser
 
+## Usage
+
+1. Open an Ed discussion thread.
+2. Click the extension icon.
+3. Enter the cutoff date and time.
+4. Click "Analyze Thread."
+5. Copy either list.
+
 ## Installation
 
 Install from the Chrome Web Store (currently unavailable)
@@ -68,14 +76,6 @@ Then reload the extension from `chrome://extensions`.
 
 - The extension must remain in the same folder after it is loaded into Chrome.
 - If the folder is moved or deleted, Chrome may no longer be able to load the extension correctly.
-
-## Usage
-
-1. Open an Ed discussion thread.
-2. Click the extension icon.
-3. Enter the cutoff date and time.
-4. Click "Analyze Thread."
-5. Copy either list.
 
 ## Privacy
 
